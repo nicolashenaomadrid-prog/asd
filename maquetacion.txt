@@ -1,0 +1,4 @@
+MAQUETA:
+https://www.figma.com/make/3cVk4nKCk4W2rKpyKdcyHH/Luxury-Perfume-E-commerce-UI?p=f&t=cIlfZHn3Zh47LjO3-0&fullscreen=1
+DIAGRAMA UML:
+https://drive.google.com/file/d/1dzcwrwqgRdRCBYCnRO25WM77J2tB5Tov/view?usp=sharing
