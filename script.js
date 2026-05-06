@@ -149,18 +149,18 @@ class Tienda {
   cargarProductos() {
     // Utilizando imágenes reales de alta calidad de Unsplash para fragancias
     this.productos = [
-      new Producto(1, "Noche de Oud", 289000, "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=600&q=80", "orientales", ["Oud", "Ámbar", "Vainilla"]),
-      new Producto(2, "Jardín Blanco", 195000, "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=600&q=80", "florales", ["Rosa", "Jazmín", "Almizcle"]),
-      new Producto(3, "Bosque Eterno", 245000, "https://images.unsplash.com/photo-1595532542520-50fa91e36d08?auto=format&fit=crop&w=600&q=80", "amaderados", ["Cedro", "Musgo", "Vetiver"]),
-      new Producto(4, "Brisa Marina", 175000, "https://images.unsplash.com/photo-1616949755610-8c9bac08f9f8?auto=format&fit=crop&w=600&q=80", "frescos", ["Bergamota", "Lima", "Sal Marina"]),
-      new Producto(5, "Miel Dorada", 320000, "https://images.unsplash.com/photo-1594303494883-9b2229f379ea?auto=format&fit=crop&w=600&q=80", "orientales", ["Miel", "Canela", "Pachulí"]),
-      new Producto(6, "Flor de Cerezo", 210000, "https://images.unsplash.com/photo-1592914610354-fd354d45e5d0?auto=format&fit=crop&w=600&q=80", "florales", ["Cerezo", "Lichi", "Sándalo"]),
-      new Producto(7, "Leña y Cuero", 265000, "https://images.unsplash.com/photo-1587556138407-3ce942004245?auto=format&fit=crop&w=600&q=80", "amaderados", ["Cuero", "Haya", "Tabaco"]),
-      new Producto(8, "Cítrico Vivo", 155000, "https://images.unsplash.com/photo-1629198688000-71f23e745b6e?auto=format&fit=crop&w=600&q=80", "frescos", ["Limón", "Pomelo", "Menta"]),
-      new Producto(9, "Rosa Negra", 275000, "https://images.unsplash.com/photo-1547887538-e3a2f32cb1cc?auto=format&fit=crop&w=600&q=80", "florales", ["Rosa Turca", "Pimienta", "Pachulí"]),
-      new Producto(10, "Ámbar Absoluto", 350000, "https://images.unsplash.com/photo-1590156546946-ce55a12a6a5d?auto=format&fit=crop&w=600&q=80", "orientales", ["Ámbar Gris", "Incienso", "Mirra"]),
-      new Producto(11, "Vetiver Puro", 220000, "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=600&q=80", "amaderados", ["Vetiver", "Bergamota", "Nuez Moscada"]),
-      new Producto(12, "Agua Clara", 165000, "https://images.unsplash.com/photo-1615397323136-1e089201a4e1?auto=format&fit=crop&w=600&q=80", "frescos", ["Agua de Coco", "Mandarina", "Loto"])
+      new Producto(1, "Lattafa Sublime", 289000, "img/roja.jpeg", "orientales", ["Oud", "Ámbar", "Vainilla"]),
+      new Producto(2, "Lattafa Negra Oud", 195000, "img/negra.jpeg", "florales", ["Rosa", "Jazmín", "Almizcle"]),
+      new Producto(3, "Lattafa Eternal Oud ", 245000, "img/eternal.jpeg", "amaderados", ["Cedro", "Musgo", "Vetiver"]),
+      new Producto(4, "Lattafa Haya", 175000, "img/haya.jpeg", "frescos", ["Bergamota", "Lima", "Sal Marina"]),
+      new Producto(5, "Lattafa Hayaati", 320000, "img/hayaati.jpeg", "orientales", ["Miel", "Canela", "Pachulí"]),
+      new Producto(6, "Il Bee", 210000, "img/ilbee.jpeg", "florales", ["Cerezo", "Lichi", "Sándalo"]),
+      new Producto(7, "Il Ego", 265000, "img/ilego.jpeg", "amaderados", ["Cuero", "Haya", "Tabaco"]),
+      new Producto(8, "Il Fin", 155000, "img/ilfin.jpeg", "frescos", ["Limón", "Pomelo", "Menta"]),
+      new Producto(9, "Il Mexico", 275000, "img/ilmexico.jpeg", "florales", ["Rosa Turca", "Pimienta", "Pachulí"]),
+      new Producto(10, "Il Rose", 350000, "img/ilrose.jpeg", "orientales", ["Ámbar Gris", "Incienso", "Mirra"]),
+      new Producto(11, "Carolina Herrera", 220000, "img/carolinah.jpeg", "amaderados", ["Vetiver", "Bergamota", "Nuez Moscada"]),
+      new Producto(12, "212 Sexy", 165000, "img/carolinah2.jpeg", "frescos", ["Agua de Coco", "Mandarina", "Loto"])
     ];
   }
 
